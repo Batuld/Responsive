@@ -1,0 +1,28 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.header{
+    height:20em;
+}   
+.navbar-style{
+    box-shadow: 0 5px 10px black;
+    text-transform: uppercase;
+}
+.logo{
+    float:left;
+    height:80px;
+    position: relative;
+    margin-right:10px;
+}
+/*.navbar-nav{
+    padding-left: 50px;
+}*/
+.icon-bar{
+    background: black;
+}
+
+li a{
+    color: black;
+}
